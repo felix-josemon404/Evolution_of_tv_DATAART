@@ -1,51 +1,58 @@
 [
     {
-        "year": "1927",
-        "title": "First Electronic TV",
-        "description": "Philo Farnsworth successfully demonstrated the world's first all-electronic television.",
-        "imageURL": "crt.jpeg",
-        "category": "Invention"
+        "year": "1983",
+        "title": "Motorola DynaTAC 8000X",
+        "description": "First commercially available handheld mobile phone.",
+        "imageURL": "images/motorola-dynatac.jpg",
+        "category": "Classic"
     },
     {
-        "year": "1954",
-        "title": "First Color TV",
-        "description": "RCA introduced the CT-100, the first mass-produced color television set.",
-        "imageURL": "led.jpg",
-        "category": "Innovation"
+        "year": "1996",
+        "title": "Motorola StarTAC",
+        "description": "First clamshell flip phone.",
+        "imageURL": "images/moto startac.gif",
+        "category": "Flip Phone"
     },
     {
-        "year": "1997",
-        "title": "Flat Panel TV",
-        "description": "Pioneer introduced the first consumer plasma TV, marking the beginning of the flat-screen era.",
-        "imageURL": "flat_paneltv.jpg",
-        "category": "Flat Screen"
+        "year": "2000",
+        "title": "Nokia 3310",
+        "description": "Legendary durable phone with Snake game.",
+        "imageURL": "images/nokia.jpg",
+        "category": "Classic"
     },
     {
         "year": "2007",
-        "title": "OLED TV",
-        "description": "Sony released the XEL-1, the first TV using OLED technology, known for its perfect blacks.",
-        "imageURL": "oled.jpg",
-        "category": "Modern"
+        "title": "iPhone 1st Gen",
+        "description": "Revolutionary touchscreen smartphone.",
+        "imageURL": "images/iphone2g.png",
+        "category": "Smartphone"
     },
     {
-        "year": "2013",
-        "title": "4K UHD TV",
-        "description": "Ultra HD TVs with four times the resolution of Full HD became more common.",
-        "imageURL": "4k-tv.jpg",
-        "category": "Resolution"
+        "year": "2008",
+        "title": "HTC Dream",
+        "description": "First Android smartphone.",
+        "imageURL": "images/HTC Dream.jpg",
+        "category": "Smartphone"
     },
     {
-        "year": "2018",
-        "title": "8K TV",
-        "description": "8K TVs entered the market, offering even higher resolution than 4K.",
-        "imageURL": "8k-tv.jpg",
-        "category": "Resolution"
+        "year": "2010",
+        "title": "Samsung Galaxy S",
+        "description": "Brought Android to the masses with AMOLED display.",
+        "imageURL": "images/samsung-galaxy-s-2010.jpg",
+        "category": "Smartphone"
+    },
+    {
+        "year": "2014",
+        "title": "iPhone 6",
+        "description": "Major design overhaul with a bigger screen.",
+        "imageURL": "images/iphone 6.png",
+        "category": "Smartphone"
     },
     {
         "year": "2020",
-        "title": "Rollable TV",
-        "description": "LG introduced the world's first rollable OLED TV, a flexible screen that can retract into its base.",
-        "imageURL": "rollable-tv.jpg",
-        "category": "Futuristic"
+        "title": "Samsung Galaxy Z Fold",
+        "description": "Introduced foldable smartphones.",
+        "imageURL": "images/samsung_galaxy_z-fold.jpg",
+        "category": "Foldable"
     }
 ]
