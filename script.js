@@ -15,9 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 const eventDiv = document.createElement("div");
                 eventDiv.classList.add("timeline-event");
                 eventDiv.innerHTML = `
-                    <div class="circle"></div>
-                    <h3>${event.year}</h3>
-                    <p>${event.title}</p>
+                    <h3>${event.title}</h3>
+                    <p>${event.year}</p>
                     <img src="${event.imageURL}" alt="${event.title}">
                 `;
                 eventDiv.addEventListener("click", () => {
@@ -32,7 +31,6 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .catch(error => console.error("Error loading events:", error));
 
-  
     closeModal.addEventListener("click", () => {
         modal.style.display = "none";
     });
